@@ -38,7 +38,7 @@ file path for the mobile view img: screenshot for my work/mobile view for huddle
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]( https://www.frontendmentor.io/solutions/responsive-landing-page-using-grid-and-little-bit-of-flexbox-U_kERIrus)
 - Live Site URL: [Add live site URL here](https://aemrobe.github.io/huddle-landingpage-project/)
 
 ## My process
