@@ -153,7 +153,7 @@ footer a {
     background: url("./images/bg-desktop.svg");
     background-color: var(--violet);
     background-repeat: no-repeat;
-    background-position: top 5px left;
+    background-position: top 5px left -50px;
     grid-gap: 110px;
   }
 
