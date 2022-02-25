@@ -233,7 +233,7 @@ footer a {
 
 @media screen and (min-width: 1440px) {
   body {
-     grid-gap: 80px;
+     grid-gap: 70px;
   }
 
   main {
