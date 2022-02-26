@@ -107,6 +107,16 @@ main {
   width: 100%;
 }
 
+.sr-only{
+ display: inline-block;
+ width: 1;
+ height: 1;
+ overflow: hidden;
+ margin: -1px;
+ position: absolute;
+ opacity: 0;
+}
+
 .facebook {
   grid-column: 2 / span 1;
 }
